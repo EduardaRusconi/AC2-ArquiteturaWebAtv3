@@ -1,8 +1,8 @@
-package github.com.azkalum.service.impl;
+package github.com.EduardaRusconi.service.impl;
 
-import github.com.azkalum.entity.Categoria;
-import github.com.azkalum.repository.CategoriaRepository;
-import github.com.azkalum.service.CategoriaService;
+import github.com.EduardaRusconi.entity.Categoria;
+import github.com.EduardaRusconi.repository.CategoriaRepository;
+import github.com.EduardaRusconi.service.CategoriaService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

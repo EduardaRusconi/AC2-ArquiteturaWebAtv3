@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>github.com</groupId>
-	<artifactId>azkalum</artifactId>
+	<artifactId>rusconiduda</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>AC2_PT1</name>
 	<description>AC2_PT1</description>

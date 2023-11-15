@@ -1,4 +1,4 @@
-package github.com.azkalum.entity;
+package github.com.EduardaRusconi.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

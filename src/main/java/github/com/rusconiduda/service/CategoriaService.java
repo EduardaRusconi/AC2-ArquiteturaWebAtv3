@@ -1,6 +1,6 @@
-package github.com.azkalum.service;
+package github.com.EduardaRusconi.service;
 
-import github.com.azkalum.entity.Categoria;
+import github.com.EduardaRusconi.entity.Categoria;
 
 import java.util.List;
 

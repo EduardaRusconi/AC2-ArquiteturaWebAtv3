@@ -1,4 +1,4 @@
-package github.com.azkalum;
+package github.com.EduardaRusconi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

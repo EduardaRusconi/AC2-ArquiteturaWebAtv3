@@ -1,9 +1,9 @@
-package github.com.azkalum;
+package github.com.EduardaRusconi;
 
-import github.com.azkalum.entity.Categoria;
-import github.com.azkalum.entity.Produto;
-import github.com.azkalum.repository.CategoriaRepository;
-import github.com.azkalum.repository.ProdutoRepository;
+import github.com.EduardaRusconi.entity.Categoria;
+import github.com.EduardaRusconi.entity.Produto;
+import github.com.EduardaRusconi.repository.CategoriaRepository;
+import github.com.EduardaRusconi.repository.ProdutoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

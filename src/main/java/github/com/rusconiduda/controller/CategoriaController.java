@@ -1,7 +1,7 @@
-package github.com.azkalum.controller;
+package github.com.EduardaRusconi.controller;
 
-import github.com.azkalum.entity.Categoria;
-import github.com.azkalum.service.CategoriaService;
+import github.com.EduardaRusconi.entity.Categoria;
+import github.com.EduardaRusconi.service.CategoriaService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;

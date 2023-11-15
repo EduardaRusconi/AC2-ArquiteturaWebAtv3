@@ -1,6 +1,6 @@
-package github.com.azkalum.repository;
+package github.com.EduardaRusconi.repository;
 
-import github.com.azkalum.entity.Categoria;
+import github.com.EduardaRusconi.entity.Categoria;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
